@@ -16,17 +16,16 @@ $wgDefaultSkin = "purecss";
 
 ```
 
-
-
 ### How it looks ###
 
 Here is how the wiki looks like after updating skin setting<br>
-screenshot 1: <br>
+screenshot 1: <br><br>
 ![](img/PureCss1.png) <br>
-screenshot 2: <br>
+screenshot 2: <br><br>
 ![](img/PureCss2.png) <br>
 <br>
 Compared with default vector skin<br>
 ![](img/vector.png) <br>
 
-Have fun 
+
+Have fun, My email: air.chenbo@gmail.com 
