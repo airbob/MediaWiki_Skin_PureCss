@@ -20,7 +20,7 @@ $wgDefaultSkin = "purecss";
 
 ### How it looks ###
 
-Here is how the default wiki looks like after updating skin setting<br>
+Here is how the wiki looks like after updating skin setting<br>
 screenshot 1: <br>
 ![](img/PureCss1.png) <br>
 screenshot 2: <br>
