@@ -7,7 +7,7 @@
 2. Go to *MediaWiki root directory* and go to *skins*<br>
 3. Put ```PureCss.php``` and ```purecss``` folder to skins directory<br>
 4. You logo files is ```purecss/logo.png```
-5. Modify LocalSettings.php in your MediaWiki root directory<br>
+5. Modify ```LocalSettings.php``` in your MediaWiki root directory<br>
 
 ```lang="php"
 ## Default skin: you can change the default skin. Use the internal symbolic
