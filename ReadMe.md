@@ -30,5 +30,5 @@ Compared with default vector skin<br>
 
 Have fun, My email: air.chenbo@gmail.com 
 
-### MediaWiki skin locations ### 
+### MediaWiki skin locations 
 Skin is on [MediaWiki](https://www.mediawiki.org/wiki/Skin:PureCss)
